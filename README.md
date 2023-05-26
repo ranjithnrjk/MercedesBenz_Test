@@ -6,7 +6,7 @@
 ---
 
 <h2>Description</h2>
-<p>source:<a href:https://www.kaggle.com/c/mercedes-benz-greener-manufacturing>MercedesBenzGreenerManufacturing</a> </p>
+<p>source:<a href:https://www.kaggle.com/c/mercedes-benz-greener-manufacturing>Mercedes Benz Greener Manufacturing</a> </p>
 <p><b>Problem statement</b>: Develop machine learning models to predict the testing time required for each custom-made Mercedes Benz car using their robust testing system. By leveraging these models, gain valuable insights and optimize the entire testing process for enhanced efficiency.</p>
 <p>
 Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has stood for important automotive innovations. These include, for example, the passenger safety cell with crumple zone, the airbag and intelligent assistance systems. Mercedes-Benz applies for nearly 2000 patents per year, making the brand the European leader among premium car makers. Daimler’s Mercedes-Benz cars are leaders in the premium car industry. With a huge selection of features and options, customers can choose the customized Mercedes-Benz of their dreams.
